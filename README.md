@@ -1,4 +1,4 @@
-![banner](https://github.com/rogrick/rogrick/assets/151864826/5e64ada8-1a0c-4465-adb4-b4ff07f65727)
+![Github](https://github.com/rogrick/rogrick/assets/151864826/45cce687-5b4b-4ea4-8ad2-181e3ce1aa78)
 
 ### Yo 📢 I'm Lev - a JavaScript Developer specializing in the React.js & Node.js stack.
 
@@ -20,7 +20,7 @@ When I'm not coding, you'll find me exploring the latest tech trends or contribu
 
 Feel free to contact me for collaboration or consulting. I'm open to new opportunities and eager to take on new challenges. 
 
-- **GitHub**: [My GitHub](https://github.com/rogrick)
+- **GitHub**: github.com/rogrick
 - **Email**: rogrickenbacker@gmail.com
 
 Talk soon!
