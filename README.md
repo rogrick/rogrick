@@ -20,7 +20,6 @@ When I'm not coding, you'll find me exploring the latest tech trends or contribu
 
 Feel free to contact me for collaboration or consulting. I'm open to new opportunities and eager to take on new challenges. 
 
-- **GitHub**: github.com/rogrick
 - **Email**: rogrickenbacker@gmail.com
 
-Talk soon!
+Talk soon 🤘
